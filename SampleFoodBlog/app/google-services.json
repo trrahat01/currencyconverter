@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9267333189",
+    "firebase_url": "https://samplefoodblog-69605.firebaseio.com",
+    "project_id": "samplefoodblog-69605",
+    "storage_bucket": "samplefoodblog-69605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9267333189:android:97912db69c9c74b4bbfb2c",
+        "android_client_info": {
+          "package_name": "com.droidclan.samplefoodblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9267333189-cc7pqdo872d0tqe87kc15vnv1hqlto4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuAfmHZ0o6SdihFia7N1-9t44jW-vHTro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9267333189-cc7pqdo872d0tqe87kc15vnv1hqlto4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
